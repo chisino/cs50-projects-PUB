@@ -1,4 +1,6 @@
 # cs50-projects-PUB
+(Code in private repo)
+
 Collection of projects created in Harvard University's "CS50's Web Programming with Python and JavaScript" course
 
 Project 0 - A recreation of Google's front-end on the regular search, image search, and advanced search pages
